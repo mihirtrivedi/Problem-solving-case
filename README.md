@@ -1,5 +1,4 @@
 # BookMyShow - Database Architecture & SQL Solution
-_Powered by Groq LLM_
 
 This repository contains the complete database schema and query solutions for the BookMyShow problem statement. 
 

@@ -1,5 +1,4 @@
 # BookMyShow - Database Architecture and Solution
-_Powered by Groq LLM_
 
 ## 1. Entity-Relationship Architecture
 

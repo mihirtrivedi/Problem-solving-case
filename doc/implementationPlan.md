@@ -1,5 +1,4 @@
 # BookMyShow - Phase-Wise Implementation Plan
-_Powered by Groq LLM_
 
 Based on the [Problem Statement](problemStatement.md) and the designed [Architecture Solution](architecture_solution.md), here is a structured, phase-wise implementation plan to execute and submit the project successfully.
 
